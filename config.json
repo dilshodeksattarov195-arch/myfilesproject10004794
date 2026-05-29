@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usersecrypt",
+        "uuid": 40020312,
+        "checksum": "k0icli"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
